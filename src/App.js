@@ -1,5 +1,5 @@
 import React,{useState,useEffect} from 'react';
-import MovieList from "./components/MovieList"
+import MovieList from "./MovieList"
 import './App.css';
 import {makeStyles} from '@material-ui/core'
 
